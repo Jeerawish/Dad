@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T23:26:52Z",
+ "generated": "2026-11-28T07:47:20Z",
  "source": "Google News",
  "items": [
   {
@@ -27,6 +27,12 @@
    "pubDate": "2026-11-27T15:22:20Z"
   },
   {
+   "title": "Solar-powered system targets fouling in complex wastewater treatment",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2hscGJxcEx4bVFqV0tPVmNzS3FrRFA5WEFBOTdKeFpFRTJQMUcyc0FfX3VGREx1TFdIN081aVNVeGY3QzdZWWtLNjBEMnJfNmcwZXJEYndKLWJLTVlHbjZscC1Qb0VEM2FySFE4bVc5SjFMb3ZZb3NvWmNQYzlza2EzWXpYVFh2?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-27T15:00:04Z"
+  },
+  {
    "title": "Green Tech Valley Cluster: 300 Firms, 2,300 Researchers Powering Green Tech - News and Statistics",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONXFoSmJwNWRod0FzUkFSSzNUdVBmelRfR2xDSS0wT0VYU3VISGZsOEZnQngzQm5ONWxZT3hReXl1Y1dIbWV6RkhPS2M3VlM2akVhV0xMRlFoS2FlSUludWlpWHU2T3dTaTFFVVBVMGNWcUM0LXk3aHFscC03dDRxOEhBVHRMV0ozSG9EcmU0VTFnQVpWTzFvNjlYYmRiQmJpaEhaQQ?oc=5",
    "source": "IndexBox",
@@ -40,8 +46,8 @@
   },
   {
    "title": "A green valley with a circular twist: Austria´s shapes the sustainable tech of tomorrow",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFhVaEN6bXpiai0zbU9uRGE2QzFmX2VxNHVEYmoxcmtsZm1GTzc0WUhBUGpxS1ZJbi1ObE1HX0ZnLUpmaHcxMUNXWTFnbkZqNzBJODI4QnkzSlREa1JrdW9fQkROQ3NfNG0xdWxMLVhPVDNLOFpJTHN0SWtZdnVzblhXZTFwR2FDMnpfQkdZelRwbXAzbGtnZzdkUmtTRVk3UjBWaGEyT0hIRG5YNm1GSXg0R0NBdw?oc=5",
-   "source": "Newswav",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSDdrLUFTYlBPY3BiNmtSdnVrWmQ1d3FzSVNrM1ZWZmg0QVh4LTVTU0hMQkFaWVkwVGJIelZxeW9rTFhtRS1hWFNpeTdTaUk3bThpUUZuci00OGR4Vmd0TTF3RXE0MFdkcUtLZ3pJazlBUUUyb3F6eTE0NEdaOHdITklaVUVrSWY3WHRUOWpXUGtOYUt1WTRxRUZ1ekVHQ1NUU1UydG9qdm9nSGRaT3p2TFdhckF1dkJYYXZWUklB?oc=5",
+   "source": "Euronews.com",
    "pubDate": "2026-11-27T14:00:54Z"
   },
   {
@@ -55,6 +61,12 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbi1wRUJjVU9YWXpPLUxnZ0FQVE81YmZXVXpzNngxUjhPckd0VENGRmdCSXdhcjVmMDUzUVVOY0JkTzN2QXd6TlhtSnhWcFVMRktTM0F6WFpTMDFUZ1IwbnU5djQyXzMxTG9XQ2FjQnd5cjYxY1N1WUZ6OTNhMFFEMXVUM3Bic0E?oc=5",
    "source": "Tech Xplore",
    "pubDate": "2026-11-27T12:20:12Z"
+  },
+  {
+   "title": "Blockchain power trading could cut energy costs by up to 56% in simulated microgrid",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQlNFR3J2RUV6azBfZUY2NU5aZjlKSlpxbC1ZbWF1TzZReWZXM1lMaTY2TUZ5MFFBZk84SG4yYml2bWdWbV9mWVhPaXAyWk1uREo4MEJKYktrREJJSnBaMUpQcHdtYUZmdThFNEtrTTVtQ3JqeWVUbW1qTnhfVlhNSUszdzNtYVEzTnBxZw?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-27T12:10:06Z"
   },
   {
    "title": "Peter Lee calls for faster green tech adoption as 5th TERA-Award concludes",
@@ -79,6 +91,12 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXUxMzRWSXJ0UHNzSVBYX1ZsQlhrUjZhSGtPSG1LZGhyeFJ1dE1qZzRCNTQtM0NVTXN5X0tUZ0tVNkRnWmZub2RMS3l2WFp1TEhqel85ZXlSVk9oOG1McjVYNmg2SkNqalBGdWUzdTJaelpmNUJUU0hKejNTR2I5aUVILWU4Q3B0eFhBUFowZDgwNEk2TXR1RTFlVDRRM0RwOWNDVGpXWlNxTDJhRzM4R3JlZUFXRWNZcGNaWWt2WHZLNWtSWHc?oc=5",
    "source": "Investing.com",
    "pubDate": "2026-11-27T04:54:40Z"
+  },
+  {
+   "title": "SFC Environmental Technologies PAT Rises to Rs. 35.8 Mn in H1 FY27",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM2VHbmZSMk1ETGdkSUdiVkVQcmpnUE11Yk9sMENJQVVtTlYwMkNDbE1YYlREU2pIQ3JJZzVKcmQzTko5MkpLUE8yaXRTM0ZLTnFPb1lEMUM5R3lEOXFQUXdyZlJ3eTlqTTY4NzFPaDJ5aUJLaHhGakJ3Q29QXzFKcE1lRnZYdi1oZ3AzbUpyX3hoV1o5WWlFRmhPcHZoM20yZFJMX9IBpAFBVV95cUxQM2VHbmZSMk1ETGdkSUdiVkVQcmpnUE11Yk9sMENJQVVtTlYwMkNDbE1YYlREU2pIQ3JJZzVKcmQzTko5MkpLUE8yaXRTM0ZLTnFPb1lEMUM5R3lEOXFQUXdyZlJ3eTlqTTY4NzFPaDJ5aUJLaHhGakJ3Q29QXzFKcE1lRnZYdi1oZ3AzbUpyX3hoV1o5WWlFRmhPcHZoM20yZFJMXw?oc=5",
+   "source": "SMEStreet",
+   "pubDate": "2026-11-27T04:27:39Z"
   },
   {
    "title": "Ignition: 2026 Australian Climate Tech Industry Report",
@@ -165,6 +183,12 @@
    "pubDate": "2026-11-26T10:20:02Z"
   },
   {
+   "title": "Robots roam Singapore's urban AI testing ground",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YbkNYbjBkTUlXMS1ablJQdGFxZDg3ek16YktNRVRidTA2SG5GZUhNR0FRSHRCR3JjM0p3N0tTRzlVQmdMbDM2aVhKVDN2eTNPdTNxRFZYYV8xM0psWWZhTHA1b0JwNkZpRFFJYkRBd2VzYlJBUlVEYlJGaw?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-26T09:41:28Z"
+  },
+  {
    "title": "Cleantech Solar Plans INR 8,140 Crore Investment For 1.1 GW Renewable Energy Projects In Tamil Nadu",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbzc0d3l3YTBKZUNSelVjNEFyNnJGbG1QOUZkazNWNWhFNzlJblVvTS1udENxbjJJVEpnTXNaZzc3RmJRQkhvSldENThoUTZ3eTMzdnRsMmtTYlRZekN1eWVvYkNsM1B3ejRwenhlUWVWYkFXeDJZNXJueTVwczhMOXVpQzREZ09kamNnTzJfSE9ZbnJEcDVXelpIQ0FzZDk0cGl4SzFxdFdjejVvNHBFcmlLVXB6VnByVFkxNjJHd2lLbl91SmdMal9vNlNaa3Bp?oc=5",
    "source": "SolarQuarter",
@@ -180,13 +204,19 @@
    "title": "Ethio Telecom, Japanese firms explore digital infrastructure and 'green' tech ties",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWhEajB6UlhSMGJBbHRRRG5EMkxTVERBNWg1dVFmSXhCd2RyLXA4UnpqYTRCSTVmQmZYMjVZZ1ByMlBMajhpaDk3Q3drMzNvRVVnTTJQa3hvaVlyZGNCRzR5M0lIbmZyck5NcE9MZWVfUUdfOFFielZSeDVsWDROUTNkeEJRd05qeDc0T2NkYzZDajdrYzZNNzFIQ2ZRRXMxdkplcFhqcVlyeVEzeWg3RF93S0ppcXdzU0d4cEY3UQ?oc=5",
    "source": "Telecompaper",
-   "pubDate": "2026-11-26T08:36:41Z"
+   "pubDate": "2026-11-26T08:38:32Z"
   },
   {
    "title": "China Courts Global South With Energy Security and Clean Tech",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelJ3YmtXX00yVWlBSXNiWFZSSzhuTU5ldllBYXVFYkYyVzh3QUZzaVUyV0g3RDhTRW1kNmlnaGlqTU40Q2dMamc3OUxCeE1QR05RR1pzdExTb1h0N1g1czB2elQ3Y0tlelEyR0p5MEt3Q1p6dEo2X2dLWDBxblI4RFpSdjVTMlE5Y3VFNElsZXpxOUU1Y1pXT1huajF2QzVaR3I4UXpQTDJ0OW42cHl5UnlR?oc=5",
    "source": "Bloomberg.com",
    "pubDate": "2026-11-26T08:22:17Z"
+  },
+  {
+   "title": "From EVs to hydrogen, Asia's green tech sector perseveres amid financing hurdles",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX1ByYmVlWVVhYW5PaTFpaG5KR201NVdjSWNpb0NEa0s4THVMRVpGQUk0NzFUd1RqbGktTlpLU29GSndGeVg2Mzh3aURHTWpMWUt3c1RQcVlxLXNwaGUyLVJLNmpkeU5NNW9qOWVFVDY3Vm80RlVTUWlsdVF6U2ZVYV9KQjJLTU1mdl9kVzBicWthYlpHQzF5UzN6UXZyOFdZaTcxRmRCZ3U4Q2NGOS1QWkZQWW5vMVJMOUt1U0RXTQ?oc=5",
+   "source": "Singapore Economic Development Board (EDB)",
+   "pubDate": "2026-11-26T08:00:00Z"
   },
   {
    "title": "“The Current Government Is All In on Semiconductors, Has No Interest in Hydrogen”: Conservatives Compete for Future Growth Engines by Promoting Climate Tech",
@@ -201,16 +231,16 @@
    "pubDate": "2026-11-26T07:44:45Z"
   },
   {
-   "title": "Top 10 Green Technology Stocks and Companies to Watch",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmg2SXNHUWZxQnhmOHhzQnByU1RBdWlCWl8xWkg3YXFacVljUWJEWk1BVy1tcjRRMDBPUXV6ZHhReWdqLTFYbUU5LVFJOWFsbF9oQUIzZ3VnY211dGE2b19sa3phR05aUEl6R2NVLWdNV253aWFTODNlNUZkaU8yZFJfdk5sV0x1MTZNeS05OA?oc=5",
-   "source": "Market.us",
-   "pubDate": "2026-11-26T07:35:58Z"
-  },
-  {
    "title": "Cleantech Solar plans Rs 81.4 billion renewables investment in Tamil Nadu",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHJlZUFRNkZmampWV1JnNU5Ua19pMncwelZqd29mYndxSk9PbEdUcVRXeEpLZUNPWXlMX2xIUHM4b1RBM0Z3aGpzQl9XaEZsZ0w0a0lJLTVjSk5qWENjVTZMa2hKNXNua2R2WmsyZ1lBRTNQTFZZVGloODZCT0pzLVBVUHNHaWZwb3l6MkM4d2pwekYtWWk2cTNsVG4ydFZqTFREd0hfbXhWQ2RMTVQ5Umd3?oc=5",
    "source": "Renewable Watch",
    "pubDate": "2026-11-26T07:15:36Z"
+  },
+  {
+   "title": "Halder Venture invests in InQube Technologies to boost agri-tech and climate-smart farming",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM2JvaThwbWxKXzI4R0VYWnI0ZE91ODVmUXBIM3BnT3RSTm95aURjV2NmeVZYTVVBMHNLRkxndXBPUHlMTDVuMGw5aDROYnR6NFU4QnU5VlhjamFreEhpNDJVZk5EeVZ1Z1hVeGpjdG5BTExndVprQXVPRXdwenNmZzJiWXRTR2ZXai1JWUltSEdNWW93M1puWUc3RXpMYTRkOHlZME5SeUdGR0p1aEFJYWhvZ2VDX0p0VnRGVXBjMnRlNTlYNFd0b2dtOFlFN3J1U3dZUlpDaUFhSFdOV2tpbUxrQ085S0Q2RmxGMGk4TF9ZdklkSkFVQtIB_gFBVV95cUxPYlpBNDU0ckV3SGM3ZEFUSTBsTUM2Sm9pWWdvNFJIZWRvVGgxb285R2tEY3F6cGYwYkxJa1M4M3pYN005NnFmbGVDZGsxSThYMHJOQTNYbjRVX0VfX2lwb3k0ZG1TRXN4RTJzTVhNUm9rSnc3cUFSeHRQb1MxYk9nZWtjaXJicVhKU0pVUzhxcldUOTBCMEtQX19zN01ja0Q1bnVmRTBxV2FId25kaGRLVzhEZWVxTFdZMnZ0NTFiTUtWVnh6S25qTERMaWdiejAtUUxYb2tZdWtJNi1VT3ZqSmR1LTRzZERPdHoyNG9wcnhCcF9LOUZxcm1LUmFmdw?oc=5",
+   "source": "The Economic Times",
+   "pubDate": "2026-11-26T07:09:17Z"
   },
   {
    "title": "Cleantech Solar to add 1.1 GW of renewables in India’s Tamil Nadu",
@@ -231,6 +261,12 @@
    "pubDate": "2026-11-26T06:28:19Z"
   },
   {
+   "title": "Lagos seeks youth-led solutions to climate challenges",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOU9XUVAxOHA3Y21WSjQ5Yll3WE96YUQ4WUNYYUUxckJnckNvemRzaEtMaVFrYXZrOVhtMGtwSlBORmdoVG1hSk5qdk5ZTlRhNm5DNnlRS0plSlJRYTUtRUd0dDVpS3dteGtaRmFkeVVib3RjTk1YTDY2LWtXYTRYaHZ4cElKUjQ2NmV5MG9ZeWp4U0hR0gGaAUFVX3lxTE9VcWM5TjhuNmV6ZTI3MVZSWnFpT1hZampmMFoxLVVRQ0NMbFZ0WEJ0elRpVXhxanVkQzhYdVNLREVVbDQxTUc0a19TLUk5V3Nvck56OU5zSFRiZzFGanVXdnp3YTlTRDI1TkFuTTF0MVhiR0Q5eEVKQ2NLTFgweGxpdktfVFFxWUR5ZkRlTTR0ZVNGY3YyMUFqZ2c?oc=5",
+   "source": "Vanguard News",
+   "pubDate": "2026-11-26T06:03:18Z"
+  },
+  {
    "title": "Cleantech Solar Signs INR 8,140 Cr MoU with Tamil Nadu for 1.1 GW RE Projects",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYmY0OVRFWnpKeV9ERk5JXzg0Y0FLYU9nRHNZaTlwUUhZdnZCazdOaWN3V21xc1NpTm5PTEYzeGhtRnZNM3FsNjZVOTYtQWtTc1NCbEF6Z1lzNW1CSTQ2SGt5dk93RUVhYXRrY2RUTjB4bWtIcVZXOFZienVkUVU3QzdjbE4yODJURVhTZ1dhMlItYmdsYVpnNXJTRjBkbThfV1A3XzFXUktIUlRoUEVZVjlzdmo?oc=5",
    "source": "Energetica India Magazine",
@@ -249,10 +285,28 @@
    "pubDate": "2026-11-26T03:46:12Z"
   },
   {
+   "title": "K-water Earns Prime Minister’s Commendation for Win-Win Cooperation at National Quality Innovation Award",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nbm8wakVtTF9lM0dDc19CRU5xVXZXdDhHVGVYbmZheW9HdzA3c3UtS05FMWdNT2dYRWNiTFplZ05jOFhWc1lyMzhsOVk1Zzc5cjhqbjZOTlo?oc=5",
+   "source": "파이낸셜뉴스",
+   "pubDate": "2026-11-26T00:13:59Z"
+  },
+  {
    "title": "Hyundai Motor Chung Mong-Koo Foundation Shares Results of Efforts to Nurture Climate Tech and Impact Entrepreneurs",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Dd0hyWVpuWUNwNTJaS1pVRkllS19xMWlNclh1dmEwSnJNNEgtTzBiRXNIbE9iUm92Z21VaXI0NXhxMkJsUTlNS0trczYwNXVxRlJxSHJ3eWZFT3FwLUlBcE5EMDQ?oc=5",
    "source": "아시아경제",
    "pubDate": "2026-11-25T22:57:30Z"
+  },
+  {
+   "title": "Ideal heat shields could boost solar panels' annual energy output",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1teHFSTHM5eUd1OUlWSGFSS3dUR2dtRjFIcFlfcTRUN094OTVXV29ZbUViazF5cm5PUnMtdl9zcTh5MFRVc1pESFRKMDRxdWtHU2lxNUpMbHdVNllmNDdleDM5SUJfRmZlakVhc3J4X0g5VmdNV1l6XzVpLWdOdw?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-25T21:00:07Z"
+  },
+  {
+   "title": "Some older adults resist smart home technology not from lack of skill but to preserve identity and stability",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vTXc4SUg4S1lNNmdyYTNHd0R4VFpzVUlpcHdnb1JxaktySmg0dWw1U284bXpUb1pTVUdoSXp1UVlXQ000YzVMV1prYlhpTE8teUhsZnFhVG1PLXJaMEp0QnphWXhab2dfdUo2bzc2TVVXaUhQNXVWbEZaNA?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-25T20:40:06Z"
   },
   {
    "title": "What Is Behind the USD 0.20 Payout at JE Cleantech (NASDAQ:JCSE) After Revenue Soared 221%?",
@@ -279,10 +333,28 @@
    "pubDate": "2026-11-25T18:30:01Z"
   },
   {
+   "title": "Wolf pack approach to wind and solar power",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44SVBZMzN0OTBEdXFSazZFWU1pbU45N2tqNzhvSXBHbXVmT29QSlBDTzdGTnFwMlF5ZjI2Q3VtWU1GV2hfZFdtb0RaQ3NQMGsxbTlBeXB4UGhISzlEX1dzbnl3QzBhdWFMZFdNMW80eURxODJo?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-25T17:50:04Z"
+  },
+  {
    "title": "ETHIO TELECOM, JAPANESE FIRMS EXPLORE DIGITAL INFRASTRUCTURE AND GREEN-TECH PARTNERSHIPS",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2b1dXTXVKbmpHRllfUFhSS1dYTlg1ZnhIdGhERXEweFlPQjBfUnlOeUt6cjhpcVBQSFY2OHhTeWNwazY5ai1WSUdB?oc=5",
    "source": "بوابة التكنولوجيا المالية",
    "pubDate": "2026-11-25T17:49:53Z"
+  },
+  {
+   "title": "EU plans 50-billion-euro investment in AI, quantum computing",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zdW15dTlnLThNN1ZhU0xWZVNJR3J5VmVJQVBKQ3lXeFhDNTlzc1BYUzhYT0JRN3lYY2FGMXpqYjBzV0M0Y1Z0Tno4bnMtelJPMmRqMjZlTmhTaU9vcVNQX0xKMDBSYWNyZnE5aHRWVU1LWmxlRjVtWE9n?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-25T16:40:01Z"
+  },
+  {
+   "title": "Nano-links stitch perovskite solar cell layers together, boosting stability while preserving efficiency",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GTEZJSTVuN25peEtPQ3JBMUJja2t2RHBWSzVfWkkxWElWanplODBiWG43MXFzRXhsdWdPNGdUX3I2alM4cEp3aXJTSHpXd1VVVzhsR0kwN3ZpcEF4Ymg5VTc4b2RFdG82NGkxVXFjVEtVVDc3RFZpM3Rlc1JCdw?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-25T15:40:06Z"
   },
   {
    "title": "Cleantech Solar signs INR 8,140-crore MoU to develop 1.1 GW of renewable energy projects in Tamil Nadu",
@@ -297,10 +369,22 @@
    "pubDate": "2026-11-25T14:44:27Z"
   },
   {
+   "title": "On-demand bus routing draws on slime mold to rethink public transit",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4cGRwbTI5Rk56eXpVck1ySVZqVV8xTlNOTUtFZDNzOWktdE0zMDNzZ09IekROQmU4NkNIeWtyc3VFWV9jODdybFJTb0o0ODFuaWptdVQ2blBmem9ZcHFmcUhMVGhEMjZpYURxckRxd2ZON1lPQnNLb09R?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-25T14:20:09Z"
+  },
+  {
    "title": "Yard Stick PBC: What Climate Tech Founders Need to Know About Venture Capital",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkFLemoyNnlrbDV1M3A5cmtZd3dxckk1T1dLQ2pXYjBGNWZLMEJqdUV6dDBKOVhwb2l5bmxXWUlmMUEtQ01vcGRaV3BCTkJ5Q2ptZTdpaDRBSEVCa2g0Zi1EWU5hc2dPdm5oUWV6S1pXWjlDVXA2eDRMOVRlUVVzWnNOS0NiM01JZ0tVQXJybXQ0c25XZldGNk0xOXJ4RWwyZWxOVjVLaVB0bXNtdldhc0Vn?oc=5",
    "source": "Harvard Business School",
    "pubDate": "2026-11-25T14:15:57Z"
+  },
+  {
+   "title": "Egyptian solar-water startup NoorNation raises $1.05m seed round",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ei1KSE1ZbXFyYmYtRUFNbUdDTWZZeTFSa1h3WUhLY1Z3MEhLa1k4YkE3aGFra3h3Ni1UVU1jQWpxMHVsbWlLaXo5RUpXcU5ZdU5LUkNJSk9YVlFuSldESmJFeE1DY09ieFhrNE5BZG9HX042d2Vn?oc=5",
+   "source": "Condia",
+   "pubDate": "2026-11-25T13:31:26Z"
   },
   {
    "title": "Commission awards €477 million in grants to cleantech projects under the Innovation Fund",
@@ -309,16 +393,40 @@
    "pubDate": "2026-11-25T13:29:33Z"
   },
   {
+   "title": "Da Nang collaborates with South Korea to address the problem of 2,600 tons of household waste generated daily.",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbGMtTW4zUWxSU1hUbTFGM0k1NUJtdWxoQ1BDTUszQ3F4WjZhX1BSNGhDOURndmcyV24zaFpUdUdzd2J0X0R6ZGxQdzBqd0NWeGNIbDdKMEJXbGhfVkZsNlBXSkZ4dUhmUldvalRqUGgzX0J1cEZQenRlb2llck5xNE1ObDI2dUNKbzBfeVByYnV2a0RDUVgwNkZYTjZ1a1JCVmd1OWdaeTRkX0hPSE13YndB?oc=5",
+   "source": "Vietnam.vn",
+   "pubDate": "2026-11-25T13:07:29Z"
+  },
+  {
+   "title": "From a Rs 140 Beginning to Environmental Engineering: Dr. Pritesh M. Shah Receives Bharat Shreshtha Ratna Sanman 2026",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNakloTF9jTk5DdDN5SGRJaHVMRXlKVU9FTzBacmF6ai1Yc0MyblVQQmVJZjV2ckhnN3lMQlBWVTlGcVpQZjZnNWpNNkhNbzlsR0NBNk5LMUcxMWJISGRhRlJoRG5Bek9jZDBmTnhkbm1ZZVRFMUpoVnZLcmlYMk5kTmFRT255c1RZNmZQVy1pbHNpMlF5ejBHTlJjSzR1Yk1IMk1rQ2ViY2lyVGNoNWl6ZXJJMzM3V2FyWEVmdnVpVEJTeGMwOWJ2RlMyaW9iNFJRM1hCU0dwTU1hVV9jUEJ3UXBLLVJPcmFDR3F2OU9vTQ?oc=5",
+   "source": "Loktej English",
+   "pubDate": "2026-11-25T12:30:11Z"
+  },
+  {
+   "title": "Finding the catalyst sweet spot for turning CO₂ into methane",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOa3Brc0JNSFRxRW9mRVJobDlYTm1XdjFnOWp5dnRlTDJOMnItaHRGdWpodWNkaTJPcEdiY1pxVUd4UUluY25rc3dIandEcUhKemRQbzVQZlJLVTNVS2YzM1F1b1VwdV94SllJeXFZamE?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-25T12:20:01Z"
+  },
+  {
    "title": "Moving towards zero waste",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjdBMWQtUVFCaFhUX1hfV3RaQk5xLXd3MWExcU1NakwwSWxQTlM4WFZRT19qaXBqcGprRXJfbFJzS1RmNGtPNmR5VzV1YzROaS0tZHdJVWJsRGs4X3BIWmlWa25HT1pQckFueVpCTC0tczVIczhlR3NkeXUtOXptRGU4RUJoc1JCbjNLQ1N1MFk0NjRqLUE?oc=5",
    "source": "UNEP - UN Environment Programme",
    "pubDate": "2026-11-25T11:49:12Z"
   },
   {
-   "title": "Envision Energy and Greensteel Australia partner on 400 MW green hydrogen project for low-carbon steelmaking",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQelhQdG1kRWgyTGw0VU1pQ0JYRkFxMjJqZ21VTktiYnJpT09Kb09yNF82Nk1FNmtzQmJtYUxBUjVHeFJtdEFuaGNCN2t4d0ptcy1UT3o5LThQOWJzcDh6ZlFUdmRtcFJFcFJ0VW1SR3RqQTVQZ2drak94alVpc2RmWGc5REYycTF5MlVlRFMxdnRDa2hfMlpaOHFpTTlQY3piNy0ydm9uZVZxS0JtSGtpU2NpbXZMTWdqb1NhRXFscnYzQVYzTDdkeHR2RzVSODZjQWk1VHN2R19teXBrYnRPYV9FREtaS05QcFVjd0I3c3dienByVzdZS1Y4c1dEWG8?oc=5",
-   "source": "SteelOrbis",
-   "pubDate": "2026-11-25T11:16:41Z"
+   "title": "Fake gifts, real losses as AI ads proliferate",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oWl9Zbnp2MkVaNmRlZFJibTl2blMySHpTTF9KWlNfa0RYUkVwQ2NraGRSLTJ5VndYTTd4UHVtV3lnazU2YmFjSURqNnExVjhDU1FXUVpJZ2R2Qk5EN2JOOVpBem5TdmhtM3hMcnFmX2NwWGpQ?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-25T11:26:46Z"
+  },
+  {
+   "title": "Recycle your Holiday Lights",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUl9wa0JZTzhOVUxLM2JCbDZzY3puMEU2VGpCdEdGamdlMGdWd0xoMG55WGl0OFQ5TnN5RFpqRktuOV9VYjZmaE0wekdWM0tncFl4RzAtQVdOLWpsWTVvdlE0QldMdGNoY29GR2doM2xoejJ5enFPbEFfMkNrWEpWSFozckJqaEhJQU9sM2RZZUFPbnhxaE01NHphRUZxTFVPM3lZVVZ0eGE1WnYyUUktMGkteGdWekE?oc=5",
+   "source": "pmg-ky2.com",
+   "pubDate": "2026-11-25T11:00:00Z"
   },
   {
    "title": "Cleantech Solar signs ₹8,140 crore MoU to develop 1.1 GW RE projects in Tamil Nadu",
@@ -337,12 +445,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KNVlEckZPOW81WjVPMkk1LVNIS2ZodUd4ZzlvOE5CclVTeUw0OUlaa28zWFlPTjVOd3FPVEtyb0FLY20yWE1sRS01QzJSdXMxZ0lKbTJXOXAyMEFEY2JqbTZFU2p2VDZIcjkySTNn0gFmQVVfeXFMUEVIc3NTLWN5UzFhUTNfWkZaQXhHZV9yM2tYNjdrNzNwQ2wxTFUtQUZoZ05CdUFIYWlDcEh2TnlONTA4MjE5REg2X0NjV21jMjFOSi1QQV9waDVGREZULXVrXzhQZU53?oc=5",
    "source": "SBS 뉴스",
    "pubDate": "2026-11-25T07:20:13Z"
-  },
-  {
-   "title": "How green finance reduces agricultural carbon emissions: incentivizing green technology innovation and constraining traditional technology inputs",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02NzBQSFo5cUY0cGd2X0NjOWlwa3VjRl9sX2VoLWhYTHc4RF9QVDBvZHJoZG1jMFd5eEVLUHo2LVVjT3dNQjJQeFJLNkhWS0VkcmFpM1NhUDk0Slc5RnByMURKMUlQWXlYTXpWYXdDVHA?oc=5",
-   "source": "Frontiers",
-   "pubDate": "2026-11-25T05:05:15Z"
   },
   {
    "title": "After plastic bag ban, Perak weighs municipal enforcement on polystyrene containers",
@@ -364,7 +466,7 @@
   },
   {
    "title": "Envision Energy Partners with Greensteel Australia on 400 MW Green Hydrogen System for Low-Carbon Steelmaking",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZTJSRC1rQlpGYXVIZFpQb1dGbVZtOHVNMXRrZlpmRlFqYy1vbV8xV1B4NU42VmxqSl9fZmg1VVhqcnAwTTk5T3lkRmJmblhLU0QwN3hkVjhnVVdLbFBMZHlmeTBuenhRQ3lhemIza0cwdTNCUDZDOGxoTGF3RmVCT2VxUVRJMlNXN3pMTUlUQV82enI4NENHSE5HTHlpcDhmallhdno1cFpIaGNmYWNUcFl2bU0xTUFNTkduZ3A4M3A4ZEp2cWF1UXZwNFVCOFVrTXJVeVJ0UXVyTFVMTmxQQ2hKRjhVUVlsbTRGMk9EWXk4WVdXLXluaA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRHNIYXpxR0lYZ1V5ZncxMXBDQjNsQ3hLMGpabEl1b1cxUG4ycERSR0NadURKRFp5MC1vcU9zMWxUM0hrS0ZLNFR3RGp4ck1jSW1NeVhObTkxLU8xeHU2aF96ckdjb21rbm1GQlZlR0k3dWh1OEoxRVVLSDFlc3d4VWZ0OU1LWnExWG9Nc3RIbTZmbXBXaF82ZnZyTkRiaXhHWHFFWk1TUzE0bEJLc0ktNmFRNHhkZEx3SEY1enFPMUVReUo5ek1zN2pqQkZWYzVNUkFsaHF5bWh3SmMzNkdvdUh3Zk1YRWV3ZExOcXJVY0xHSk9fbEhSWQ?oc=5",
    "source": "PR Newswire",
    "pubDate": "2026-11-25T00:00:00Z"
   },
@@ -387,10 +489,22 @@
    "pubDate": "2026-11-24T21:21:00Z"
   },
   {
+   "title": "Georgia Waffle House cuts cooling energy use by 40% with new salt-based AC system",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXMwVUhWQ3VmbUF2Vmg2d1N6bGJQU3MwNjJVbkticnkwd2FQSFR4TjFqMUc1STh4RUNvOVpZSGNyYVdDS3pPcEZpSkhCZTI4eEVJanQzWWJzLUw4azNvNGh4Sk1Id1NMM1N2Tnd6dy1xWGlmMlFyRkU4STJjQkVDdFJR?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-24T21:20:16Z"
+  },
+  {
    "title": "CleanTech Lithium PLC (T2N0.HM) analyst ratings, estimates and forecasts",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuNF94Yl8zMnB6ck1ubVBEdWV0ckk5NlROdWJrVlhSbGRjQ2lZenNwR0hwVG9PVmVlOGViU1p4dXBacnJnaUw4Y1VqUUJMWGxtakNyc3o2YVZRQXVrd1JuNmNR?oc=5",
    "source": "Yahoo Finance UK",
    "pubDate": "2026-11-24T19:34:34Z"
+  },
+  {
+   "title": "CleanTech Lithium PLC (T2N0.HM) company profile and facts",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDbGVQSzFoS1Rkc2dCbDQxM3lRWDVzTV9kMHdDeFdGaTVRanFId01UYTl3ZFVFV0hvTVl4NVBxdUYxOFFKUzZ4aVNqdkdBWF9ZWC1wTEdzZjZieWl0ZlRvSg?oc=5",
+   "source": "Yahoo Finance UK",
+   "pubDate": "2026-11-24T19:29:39Z"
   },
   {
    "title": "EU bank backs €20m bid to scale cleantech manufacturing in Romania",
@@ -399,16 +513,16 @@
    "pubDate": "2026-11-24T17:51:05Z"
   },
   {
-   "title": "'Glosslighting' the public: Study calls for overhaul of industry-led AI buzzwords",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2M3czRib2ZHU0xuUm12ZkR3YjFtUjlCVUVRZTZmVUotYngzZ0ozWFdlZmhJYzlrN1pjYlRCZXhFWmxYOUY5bnQ4YjNjNW1LMHhRNndSTDdPeGlSelNuOGtIZ2dneHVvLW9lSzJnZWFlZzF1QjUxMS1sMm85TzlYaWlhOXcwVFhhUmthSmdB?oc=5",
+   "title": "Excess renewable energy could power new industrial processes",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHgtOUR6SERJN0YxWHpwQS1zRzhDdXVRVEZ5TGFyWFkwZGI4WXUzUWtldU1ORk5GeFdhQWNTUjNVNUY1TXJoaWF0dnRseXl5ZERHcWRmaThHNExkR1NjUnN2elFBVldZbnhGb0hNQmV4VGVBRndiTUdpUFFZZlBVTEdpbFJidFRC?oc=5",
    "source": "Tech Xplore",
-   "pubDate": "2026-11-24T16:00:15Z"
+   "pubDate": "2026-11-24T17:40:01Z"
   },
   {
-   "title": "Trade war over green tech has no winners",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TV3pGT2c4ajJPQ1hnUG9FZ1hqMUw4N2RralBRZnRUTGstTnNGVVpuU3FMNU40dFFPRW1ORnZRbVFGLXE1WTc3Y21qYU16anlGekp6T1NybW5XaUVKOWVQT05pTmg3ZjNPd3paaWdiRzQ?oc=5",
-   "source": "Tech Xplore",
-   "pubDate": "2026-11-24T14:53:30Z"
+   "title": "CHUNGTAI RESOURCE Technology CORP. (6923.TW) Seasonal returns chart",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yd3JRZ1ZlM1ZKN3BvQ09ycV9aSW0xQ3h4MHBVRXpHZzJiTk1Ca1lveHhHM1JxMGR4Y1UzaU1xUlFOYlJ5R18yUkhqZU9pYXc0OW1jX0NlZlg5eG9TYmtmWDY3T1BBdw?oc=5",
+   "source": "Yahoo Finance Australia",
+   "pubDate": "2026-11-24T15:00:01Z"
   },
   {
    "title": "NINE INDIAN START-UPS CUT EMISSIONS THROUGH CLIMATE-TECH PROJECTS",
@@ -433,6 +547,12 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sdHJZS0hsZ1lfcEk4WHNrOXNYN1gxZ29xczZnZE9feE1EanZyWDVXRXhoTUZ4UXpEajlEUmcxVGowVVNlX2xDYWo3OTJKVzhJUDdmZTJQUXV2Uy0tZWVPQjlzaw?oc=5",
    "source": "Yahoo Finance UK",
    "pubDate": "2026-11-24T13:05:12Z"
+  },
+  {
+   "title": "Environmental Standards Create Opportunities for Innovation: Mike Walker",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWw0Q3FoUS1RMHgwdzNIMVhVSENtZ2lXMnk3YmdqUUFUSVlKek85aDk0NEFBLXY0R2FaTFNyUjBvZ2M1dEx2dDgzSnJqMXBYc2h6Y0F1V0gxa1RUSmdYemZzam1DYTAzcXVwaUp5MzJQVmdxbmZUWm5lb2VSQ0hxbnh0VVZtSDI4V2U0T3dKVEExUHVrbjRTZWpjbTQ5dDRUWjVtWXpmUFQ?oc=5",
+   "source": "Sea News",
+   "pubDate": "2026-11-24T13:00:54Z"
   },
   {
    "title": "An EU approach to managing China’s cleantech dominance",
@@ -477,6 +597,12 @@
    "pubDate": "2026-11-24T07:23:00Z"
   },
   {
+   "title": "SFC Environmental Technologies Posts Sixfold Profit Surge, Q2 Revenue Climbs To ₹162 Crore",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnVpc2VtcVhHNFhjX2I5ZVJ4ZkJwbWFvbkN5azBoQXRJWE9qOFZJclFrajdPeUhSUnhQYVBFSkZNTlF2emxkTzgtTWMxVlF2VkNGQnBwaWtpTlliRWRqMF9fTzlPTm1XVUNTQURYdS1zdTBMVkdNV1hpQ1B6ZllRX2dNX1pBU0hqcFFNellMUVgzVGJicHFkREQxQjBlakdDNlVpZDJxa1h6a3h6X0Z1TEdhMTlMeGp1YzNNUFBuZVlLY0tIWWpkdNIBzgFBVV95cUxQUGVNV2VDZlB1UjRkX2VDVnozdkY4MERnczc5aG42bWUzdXdLcFBSWlJxUzlRZWNhX2FGY0tENGtkZ2pNd1VobllMeXozYjg2a0JvSmw5UEl3SDlXek1jUjFaMlV4YWlZX2t3R0JKNEFNellzLW5uWE81TVM2NVZsQ3B2NTRZM05zNFdvRUJSWkZJdHE4S0JCUUtVLVVrV2loblRvZEMzZzA5NlJyeHFyM3hxR3lyamRaUFJEcEpobm80cnEzNmNpeW94R0cwZw?oc=5",
+   "source": "Free Press Journal",
+   "pubDate": "2026-11-24T05:43:38Z"
+  },
+  {
    "title": "CleanTech Expands Illinois Fluorspar Mineral Rights by 1,700 Acres",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREVKeXQtbF9rWHY5MFFiM1JPV2ZWSnpzeEJTejF6d2NSbGtPbFNwWGpvc3NuRS1Gc09NV2lXN0JSYkhWdGxLSC1zUEd5WUVIbDFvQVJab0J2WFh0dzVncjcxSHhoSUlNeE5pWlVIak5HMlFHcXl1TXdxNENIbGtBd1FkQUVESXhIaFVvcUg4WHlneThDeHlLSmFXY0FOR3BENGZ5akJVUW1KODJBY3JVU2NUOWdZZ2dv?oc=5",
    "source": "TipRanks",
@@ -495,12 +621,6 @@
    "pubDate": "2026-11-24T00:48:00Z"
   },
   {
-   "title": "C10 Labs x monday.com: Building & Backing Climate Tech Startups and Hardware Startups",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVTBubVh6eG9RMGd2bXJUOTJ4MzhYbldGRDVrS1c2Wmc0Vk9PNk9WUGFTcTlZNHBsekRjbXN0N05DSmp4UWJTZ1BRUVR3LWxPR3hkSUxXT0tJSXFZUnEzTDZIWmlZWkZjclA2QzgtLVp4X3AtTC1halRJejRmbTZ6VVk1cXdQaHIwYnd3Tl9OUUtIMk9FbUJjeEhKMmZ0TDY1bExQZERyOENiRmd3LWFMTFkyQW1YaDNna29LV3kyTFVJSTc0eUVUV0xuNFZRczg3MmFndE9VUkh2YXZnWTBvTUlJUk1tZ0ZYb2c?oc=5",
-   "source": "Superpower Daily",
-   "pubDate": "2026-11-23T23:58:23Z"
-  },
-  {
    "title": "Multiple Clean Tech Projects and Organizations in B.C. Attract Federal Interest",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2dGLVNoSUR5YzV5NVdNWkZ4TWY4aHN5RjZxS0lFSVZsaUUtNXlUQUNyNXNXUng1TGh4NXdmUkE3OGJaYkhuaDdqNG83d2dUTXQ5a2R5UGZ3SjlMS3dsOWQ5YUJaZ25MUlJRMjV2WXBKdGdSN2tnSWtxUF9qcmF4VGdTUVZxbVU?oc=5",
    "source": "Techcouver.com",
@@ -511,6 +631,12 @@
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONmFOT3NpeGI2SXdBSkMwTC1DZjRERVhPVk0yVUlCVm44Nl83eGFDa0pVV2Y2Tmc2eWpzdDVCTmpMSllaaWNUQW9KZXg5ZFhOelRZMFFEMXhpYTRqczcyUFQ0VlN0SHBaSnNHMVZsOHY2MTdhbnZxX3NqSXZPWkhKTDZwd01IY3p0N3hRdWdQZnlHUWlBZlNSMk14U2I4VmRwSGJLZV95R0hVRWE2cHJPdHlKbUhCMk5rd3hKczQ4YUQ5bDZVc3ZQVzJiMkdrVEFBQURqNzYwSEV6Z0U2UEdwZHl5N1pXYWs?oc=5",
    "source": "www.marketscreener.com",
    "pubDate": "2026-11-23T21:22:00Z"
+  },
+  {
+   "title": "BacTech Environmental to Attend Ontario Critical Minerals Conference in Toronto",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGlEYTZaTC01dXZLS1BvZ0xfRFdhazBCME9GR0EwSXh5RHpRUDlIbGVkMTMtVkNFazBLVmdQYld0UWc3dU94emFqYXZzRkFQN3pCZEJydmZoTlVZaW9GNWVGY25JUmtiRXR6T3JVQzRPc2lzQmh0SThzNnN5eXBWdnV6R3RfWXJRenZEbXVieFcyMG5QZC1mamlyZU0xSEh4dWV2QmxlclhKdw?oc=5",
+   "source": "Investing News Network",
+   "pubDate": "2026-11-23T21:19:54Z"
   },
   {
    "title": "CDT Environmental Technology Investment Holdings Limited Reports Unaudited Financial Results for the Six Months Ended June 30, 2026 and Provides Business Updates",
@@ -531,6 +657,18 @@
    "pubDate": "2026-11-23T21:00:14Z"
   },
   {
+   "title": "Technology for 'printing' steel could help extend the life of aging bridges and buildings",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQXAtNmtUYWNNbm5NYU4zaDdfVVJtOENzeXNoaG9qNXRRcXBlRGR2Qk8wdTRGMDJvNWdTcDBwQVBwOFhsdkVVZlNtU01SX0FmRDN3WDBGTnViVkhiOXNORDB6eHBLR0FSWFlDSG53aXlqaVNDU0pfcjE1LVc1OHJLNG9n?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-23T20:50:06Z"
+  },
+  {
+   "title": "New benchmark could help AI keep up with current events",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYLWlBX3htQktFb0xGR1pxc3d4RFM1N2U0UzcwTDY2MHdDZW1lam1TWUZvWm81S09XOUNNTm1SRFlvNDRSaTNUMDZSNzRqWkxtR2oyb0RPNnJTc3ljd0F6TnJYM1Z1VmdTMGJ4QkgtaUV6V25fZjNn?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-23T20:30:09Z"
+  },
+  {
    "title": "From Policy Shifts to Breakthroughs: Cleantech Market Update for Q1 2025",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxckZCcjBGMlV2c0V6SkxTcE14ZjNjNXhmeERoeHZ0ZEtnbk9JMEdUcmdaR0lnSnBVLW5NRERnZW1WRTNRQ05nVHpXZGpWRkV2TjdJdk5RSDg?oc=5",
    "source": "Investing News Network",
@@ -543,10 +681,34 @@
    "pubDate": "2026-11-23T19:51:58Z"
   },
   {
+   "title": "New synthetic graphite paves way for rapid EV charging",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oWjZMYVRYYUJJaDRpVDlybUpIUGY3WEptNnM5TlF0dXNFbkZwLTBMaDVPNjkwLWxFdFJUQ0xOQzIxUjRrS3ZqSHp6TTFfbWZKempreXZmTVNMR2VHYV9UeEVJUHJZMUdYUklsWFRuS0NWc0NOMDVlN3B5dUc0M2c?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-23T19:20:27Z"
+  },
+  {
+   "title": "BacTech is researching ways to recover nickel, cobalt and copper from mine waste.",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXdNN2RoaFRNdDl1Z3hzZ2FMY0JJbnFkRTVqUTlXX1B4TjJ4V3gtZHVycDducFZqWFhUc2pPeEZ1cXVkbmNTMGRJRHo0Y0c0RFR5NUJjSkJSX0ZUc1dsd2tNQlRrb0ZrMUNORXFDanl6dEgxWFFOa0g4elNpd2tjQWtvTkEyRDBVQzk1czhxNjYyUkNHaFRyMDBldlExdDNkaDBhOGdLSnpJN2RROTQ0QjBWUnQ?oc=5",
+   "source": "Stock Titan",
+   "pubDate": "2026-11-23T18:55:00Z"
+  },
+  {
+   "title": "CrowdStrike to acquire Zscaler in a $44 billion deal that would create a cybersecurity giant",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2VSejlmN0tmdDlyWERYR0tBRGVySjBmUm1HZGRkbnVUUlpoa3dzd2JTTzUzQmhmZGxBeFo0OF9HTlNZT09POEN5SExVVHpvc2cwUlU5akwyWFNNbzd1cEJ3WnpPV2ZuaDlLUjRQUzVNNmJLMlpZX3loTjhPZFRaRjVvbnlwNnFrNWJkZDN1SUtuUQ?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-23T18:40:13Z"
+  },
+  {
    "title": "NEW DETACHED FACTORY FOR SALE | NEGERI SEMBILAN",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenR4NVhRdVpCRk1lZWVsaEs5Xzc1VVFEN2J5cjBmZGtIWGxxR0JmYmJ3R1ZqcXdEU19KN0p4bXFSMWFiSUxGUWNKek1NSml0WHNTWjMxby1UTlhIRFVWNjZtd0UydW53SDFBRE1PT1lEQmZyNnJrT2VIclB2NDdxT0JHMi0wbDVOb2xpTXA1cWZWUTlYSHd2MFVuVXQyaHM1NjROcjU1aG9SbHVKZ2g0bm5mUV9BcUM2Y0I3NVdzamNYSU1haFdMdEJYak5xUC1Kbkk2Z3N5OVNjRHFm?oc=5",
    "source": "EdgeProp",
    "pubDate": "2026-11-23T18:37:46Z"
+  },
+  {
+   "title": "New drone prototype folds itself through gaps half its width during flight",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwMjZtb3R6S1NKODA1MnhtOVNfTXNGODhVMzVfV2tTSTFhcVNOb3RoTnFPMEYxNlJqd3M0eDBLdVdYZ2ptaVZrcjYwVUxmdHRiZ21SZmZObUdWSGEweW5mb21KS2trUzdOWVFWa3UyenhRc1ZMZmNJUTFnZm5IWUk?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-23T18:20:07Z"
   },
   {
    "title": "How insurers can help bring climate adaptation tech to market",
@@ -571,6 +733,12 @@
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEtOblpXN0dkdjRZVzlfUFVfVFlfc1ZzeXNxNEl3WUdBSFJLc2s1Xzl1Vkd4ZHhnUlVkam50MmgtZzMwWURRMDdteG9oY0pPRjV4dWN5NFJpd19YQTVqRFhFVmIwSUF2SVowYnhLRzNwSFNTdUh0MjdDZEhKeUUxdmRZWQ?oc=5",
    "source": "Sustainable Biz Canada",
    "pubDate": "2026-11-23T15:33:03Z"
+  },
+  {
+   "title": "Indian Scientists Develop Sunlight-Powered Nanomaterial to Remove Toxic Water Pollutants",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmRjelNYMHAwbWk0d2VoVzVHZ2ZOS3gzb0tQajlaSzh0a25DLWQ5TEwtM3k4bGhJbXo5OGttX05Qdkg1bU13V0VBSS1jOVYycmhtcWc0NEU0Mk5NZFRXZkNtQ2N6Yl9MXzh3cHZtcEdmbHdndlRDTEVpWU9fbktJNFFHMmxRMTBOaGR1ZlhZVWplelc5T1hZRUcxZmFaTFhobFE5N19iRWs1WGs?oc=5",
+   "source": "www.nationpathindia.com",
+   "pubDate": "2026-11-23T15:20:03Z"
   },
   {
    "title": "Top Climate Tech Startups In New Zealand To Watch In 2027",
@@ -609,6 +777,12 @@
    "pubDate": "2026-11-23T09:56:00Z"
   },
   {
+   "title": "EU, EIB launch €7.5m fund to support green technology in Jordan",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rV0lTV1hwTlYtVFg5WmRSZ0xqTmJEaGRwY2N1c3hOOGdaMHJQMEtCLTR1UkdrTjNsNEdpT2l3cVZfWmZrMk1Jdkt5b3Q0OXh6RWVHREZMc3JYNldmZldBbw?oc=5",
+   "source": "Mobile Europe",
+   "pubDate": "2026-11-23T09:40:35Z"
+  },
+  {
    "title": "Port of Brisbane extends Green Button to Deep Draft Ships",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTNjWHhSWDhKaGllWnJ1bzVoNmVzY0R0enExa252Y0JpTUU3OUlSVWdIemE1RG80Yi1NMk1xclBjVnFYQmhpZjhYX0VWT09IV2lzRnM0UFNvOWVJa3pTaEM1ZlNIeFktTHRSUmpTTkpUS0NPV29rOHlZdzVfZGFjaFpQWVY5SW9qWXU0WkoxT0xXbnhVdi1wT05RcXdNNGtGTWtWUDJn?oc=5",
    "source": "Port Technology",
@@ -628,9 +802,27 @@
   },
   {
    "title": "9 climate-tech start-ups deploy solutions across 10 Indian cities, cut 109 tonnes of emissions",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQkp1Rl9BWGJkS2lJc2MwZkFWUFdvcnh3N3QyTlg1ZTVyNklhQXhZcWdtdk9YWVZOQmRJSENESERLSWlnMzd2bGdqVHNGNmU2WDBjNW16VEtfRC1uUDFqWUdVb01YbGV0Z0VxYms4SC05RFJMRWpOSzJzWVlVMko2d2xtYXFVNDY5OXBheWdzWTlsNHNkdkM0REM5QUp5OFI3cndIS0pxT1NyUXNCMFpNYkhIWWNiajJkVWxYTjNmYXJtUzllMDFBV1pGQWhEZ3l1clNMcXgwYXZGZnFvX2g3WHRNcEdtWFUtbmfSAe8BQVVfeXFMT3VSNkEwVG9aQnNDTzJuRFZTVzJOOVdaVXpOdHU3X1dCRFpxcndhUU1LcjR6QVI2SlNBNjVZZm52dUlFc2w3bXI2ZUtEdUZIMWNPeDMydVRKMkc2dGpNcmFPd3VmY0k2MGlTOGN3NDZSSmMzWmVCeG5lNG9sMFp3YjFJcGhuTjBodGFIMXlqZ1ZxOHpfQUFiY2xEVGh2aTN6ZjZCWVFTRkt0S3BsUUpZaVZoSWFSTHZWWlNGMjF6Z3oxdm1sSEgyaHhiM1dhSkZZMUE2ZUd2MmNPamFVbnBIUl9LV0lfNTNLcENMcXlLX1U?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQkp1Rl9BWGJkS2lJc2MwZkFWUFdvcnh3N3QyTlg1ZTVyNklhQXhZcWdtdk9YWVZOQmRJSENESERLSWlnMzd2bGdqVHNGNmU2WDBjNW16VEtfRC1uUDFqWUdVb01YbGV0Z0VxYms4SC05RFJMRWpOSzJzWVlVMko2d2xtYXFVNDY5OXBheWdzWTlsNHNkdkM0REM5QUp5OFI3cndIS0pxT1NyUXNCMFpNYkhIWWNiajJkVWxYTjNmYXJtUzllMDFBV1pGQWhEZ3l1clNMcXgwYXZGZnFvX2g3WHRNcEdtWFUtbmc?oc=5",
    "source": "Moneycontrol.com",
    "pubDate": "2026-11-23T04:37:25Z"
+  },
+  {
+   "title": "From Manchester to Silicon Valley",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1M1Ykt0amtrdFhhUHpXSEs0amVDQ2xHZGZKTUpCbnpQdmRTQ1BVaU0xczMxV0ZCQWFCUEdXTk54VWtaQktMRi0za29vYlZJSWRHQU5PeFhZX29YbE9MNlFvVDBZLW9Xb2xVd29TZkxrRTdkYm0wYTFyZEpKbThtX2QxVVYyeGZOU2c?oc=5",
+   "source": "The University of Manchester",
+   "pubDate": "2026-11-23T04:16:14Z"
+  },
+  {
+   "title": "COP31 talks end without deal amid major country splits; South Korea pursues decarbonisation, climate tech cooperation",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdnhvbWdFbUEzS3hGLWFpRGFHd1NfQU5ONjZfTUxPOWMzMXdHQ19XRFlaU2dXQTN2UHZtakJEblNkOEhSamtnYWt5U0ZBcHIxLUxSVFN2bEl5NEEyUXJHV2RHSFZXbnlUeHZlUURuTmx6YXQ5S0QyV0dYZE9WcHJfY3lLUXFkWlJNSm01S093Yi1Jc0huTGMtbEtSVFR2alo2VW1aX2I5dWUtZWVNdkNKTnRtbDFPcmVSbjh3WVJrcTFKTW5wM3BlbC1uR1czWjR5ZnRGWTZxZFVWVk5Qa0V0YmNSSVRxQ3ItdWR6S3JxcDNNSTkwVEtjbQ?oc=5",
+   "source": "디지털투데이",
+   "pubDate": "2026-11-23T02:13:58Z"
+  },
+  {
+   "title": "NRMA Names Australia's Next Climate Resilience Innovators",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0RTbjFKZ3Z4Q096RDJQZjlWczBrMktwSWttYlVMUm9aa2VvV01yX3h4NHZiaDRNWHpOTTctNDltbTktUWhVZ0xfbjlfWnBLeXZJbnhuZlF6ckdmeVl4TlVtUjJNcC1wNEt3YVZDRHFkSE5kOWJTaVBYNGNOOGxKWmVmQmRZY2hJ?oc=5",
+   "source": "Mirage News",
+   "pubDate": "2026-11-22T23:44:00Z"
   },
   {
    "title": "CleanTech Vanadium Mining Corp. acquired Hardin County Properties for $0.05 million.",
@@ -639,22 +831,40 @@
    "pubDate": "2026-11-22T23:00:00Z"
   },
   {
+   "title": "Nvidia faces US accounting probe amid deepening turmoil",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOck05c0F3QlZCdGM4bjlvV1RPeU0zS0JOZ3VpSU1NQXJ2NmxYUl9pOERCQlYtYWZqRmxIRmpBeGR3ZXl2MUtlX0ZsZ3RwU2FzUlp5cTM4V2U3UVhLNVlLRmhxU1dVMXJMQThObTlQUjJGZmpIMVhzejB1RG1aWlpYeDF0aGVDa21sTGc?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-22T15:40:01Z"
+  },
+  {
+   "title": "Can teams of AI agents recreate the chain reaction of human decisions?",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wOXI2UURFdDY0b1kyNnBEMjFkN3p5b1N4dWNXd2FRUUhJUXdrN3FBVUpRRkp6TjN0OWZocTZvRGljTmtuSTBMUVd2RVdUdDcwZi1hc2NlNjM0ZjlralNReUt3Ykc2OVN6SWJQNVZuS2xVaUdralp3SHhKbw?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-21T19:00:06Z"
+  },
+  {
+   "title": "Taming blue light: Researchers bring precision lasers onto a chip",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGb1ZLYlg3b2wydEZpTzRlOWJNSm1WeER2U2F6WExnbnJFb05pRDBhY1d1LTNYOEozYzlTaHNkbVJCRlpfdTJHQ19MMTQtRmJmbFhEUWFlLS1kY2RyM1A1LU1Ca3NTU1NCbTVXTWhEMENfNmRtcnc?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-21T13:00:06Z"
+  },
+  {
    "title": "ASEAN Summit, Gibran Resigns, Vietnam Climate Tech Briefing",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmZGSXY0b0w1NkNQdXNYQWtMdTJkR0k4WTNYeXJhMHpjdHl4d2Q1eTJld3dEblNoOFk5Qm9iYXZ4aklidUtTMy1QX1dOZjJJSXZFZldFSnNVcmNIWkpwWm1RTjl0ZGR1MHFfQU1vb1FnVnBlODVxMHg4RWdYRFRtcGpPSGdpNGdJclM4WlBvMnY3Uk5fTVdZUw?oc=5",
    "source": "The Southeast Asia Desk",
    "pubDate": "2026-11-21T11:01:55Z"
   },
   {
+   "title": "Has AI's honeymoon ended on Wall Street?",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucTVHUUxJcHZwN25XWlFSNlZVNVNlUHBWYkRmdHlFMFU0UXdVV3lwQWVDVkY3RkdqckdNYW9Mdm1yRDljODV1cEhjVDBOY1Q2ZU9EMk1FRi1KcWxRYldCMG9weTBod3d2YUxaSGVaT0thY2c?oc=5",
+   "source": "Tech Xplore",
+   "pubDate": "2026-11-21T11:00:01Z"
+  },
+  {
    "title": "EU mulls tax on Big Tech to boost budget",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuV2tFNUNPMEhmVkZEMzRESUFjeHUtWklmNU81emgtZUhKOVRvRFVHc0c5VkFUckE3ejlrSXFlY2JHXzljTy1tWm00T1B6Nm1DWFNTYnFIaGFfMlBmdzlFTmRmOGtELWROLWZheVZ6bw?oc=5",
    "source": "Tech Xplore",
    "pubDate": "2026-11-21T10:40:02Z"
-  },
-  {
-   "title": "CleanTech Lithium PLC (T2N0.HA) options chain – Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBib1pQUWpUYUVnc2c2Z2pjSllKUVA4aUtQZHZqYV82cDluTXlveTBCTmJXYzJIcFlOWHdyUWhGVzZoaGIxbkNLdE5YX3NPS00yLUlBUnMySjQ0MjZMQTVBOQ?oc=5",
-   "source": "Yahoo Finance Singapore",
-   "pubDate": "2026-11-21T00:12:34Z"
   }
  ]
 }
